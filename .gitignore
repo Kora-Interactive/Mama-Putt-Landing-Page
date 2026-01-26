@@ -1,1 +1,19 @@
-node_modules
+
+# Dependencies
+/node_modules
+
+# Build artifacts
+/dist
+/build
+/out
+/public/build
+/static/app.css 
+
+# Optional: Environment files
+.env
+.env.*
+
+# Optional: OS and Editor files
+.DS_Store
+.idea
+*.log*
