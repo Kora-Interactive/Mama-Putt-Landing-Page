@@ -12,7 +12,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      // Alias @ to the src directory
+      // Alias @ to the src directory yes
       '@': path.resolve(__dirname, './src'),
     },
   },
