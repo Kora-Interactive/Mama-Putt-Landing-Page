@@ -387,7 +387,7 @@ export default function LandingPage() {
                   className="w-full"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent flex items-end p-6">
-                  <p className="text-white text-xl font-black">30 Exciting Levels!</p>
+                  <p className="text-white text-xl font-black">More Than 30 Exciting Levels!</p>
                 </div>
               </motion.div>
             </div>
